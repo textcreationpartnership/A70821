@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Harmonia sacra, or, Divine hymns and dialogues  Second book. : with a thorow-bass for the theorbo-lute, bass-viol, harpsichord, or organ / composed by the best masters of the last and present age ; the words by several learned and pious persons.</title>
+         </titleStmt>
+         <extent>Approx. 85KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70821</idno><idno type="EEBO-CITATION">11880824_50322</idno>
+  <idno type="VID">50322</idno>
+  <idno type="EEBO-PROQUEST">2248521509</idno>
+  
+            <idno type="STC">Wing P2437</idno>
+            <idno type="STC">ESTC R231598</idno>
+            <idno type="OCLC">11880824</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70821)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50322)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1709:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Harmonia sacra, or, Divine hymns and dialogues  Second book. : with a thorow-bass for the theorbo-lute, bass-viol, harpsichord, or organ / composed by the best masters of the last and present age ; the words by several learned and pious persons.</title>
+                  <author>Playford, Henry, b. 1657.</author>
+                  <author>Purcell, Henry, 1659-1695.</author>
+                  <author>Gribelin, Simon, 1661 or 2-1733.</author>
+               </titleStmt>
+               <extent>1 score (vol. 2 of 2)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Jones for Henry Playford ...,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: Henry Playford.</note>
+                  <note>Edited in part by Henry Purcell.</note>
+                  <note>For 1-3 voices with bass (part figured)</note>
+                  <note>Volume 2 has added engraved t.p. signed: S. Gribelin inven. et sculps.</note>
+                  <note>V. 1 is found at reel 506:8; v. 2 is found at reel 1709:6.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Hymns, English --  England --  17th century.</term>
+               <term type="topical_term">Choruses, Sacred, with organ.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:50322:1"/>
+                  <pb facs="tcp:50322:1"/>
+                  <p>Harmonia Sacra: OR, DIVINE HYMNS AND DIALOGUES.</p>
+                  <p>WITH A THOROW-BASS for the <hi>Theorbo-Lute, Bass-Viol, Harpsichord,</hi> or <hi>Organ.</hi>
+                  </p>
+                  <p>
+                     <hi>Composed by the Best MASTERS.</hi>
+                  </p>
+                  <p>The WORDS by several Learned and Pious Persons.</p>
+                  <p>THE SECOND BOOK.</p>
+                  <q>
+                     <l>Angels and Men assisted by this Art,</l>
+                     <l>May Sing together, though they Dwell apart.</l>
+                     <bibl>
+                        <hi>Mr.</hi> Waller <hi>of</hi> Divine Poesie.</bibl>
+                  </q>
+                  <q>
+                     <floatingText xml:lang="lat">
+                        <body>
+                           <div type="license">
+                              <p>IMPRIMATUR,</p>
+                              <closer>
+                                 <signed>GUIL. LANCASTER.</signed>
+                                 <dateline>
+                                    <date>
+                                       <hi>Julii</hi> 1<seg rend="sup">o</seg>. 1693.</date>
+                                 </dateline>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <p>In the <hi>SAVOY:</hi> Printed by Edward Jones, for Henry Playford at his Shop near the <hi>Temple</hi> Church, and at his House over-against the <hi>Blue-Ball</hi> in <hi>Arundel-Street</hi> in the <hi>Strand:</hi> Where also the <hi>First Book</hi> may be had. MDCXCIII.</p>
+               </div>
+               <div type="illustration">
+                  <pb facs="tcp:50322:2"/>
+                  <p>
+                     <figure>
+                        <head>Harmonia Sacra.</head>
+                     </figure>
+                  </p>
+                  <pb facs="tcp:50322:2"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:50322:3"/>
+                  <pb facs="tcp:50322:3"/>
+                  <head>To the Reverend HENRY ALDRICH, D.D. Dean of <hi>Christ-Church,</hi> and Vice-Chancellor of the University of <hi>OXFORD.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THIS is the Greatest Thing that I can do, for the Excellent <hi>Musick, Poetry,</hi> and <hi>Piety</hi> of these Papers; it has been my Care indeed to save them from Oblivion, but they are Indebted to me now much more, for the Defence and Ornament of Your Name.</p>
+                  <p>In Addresses of this kind, Men are usually so far from suiting the Subject of their Treatises to the Qualifications of the Persons they Apply to, that we may shortly expect to see <hi>Musick</hi> Dedicated to the Deaf, as well as <hi>Poetry</hi> to Aldermen, and <hi>Prayer-Books</hi> to Atheists; and though generally it is a difficult matter to find a <hi>Worthy Patron</hi> for any One of these Excellencies, yet we happily find them all lodg'd in your self. It has indeed been very seldom known since the Royal Prophet's Time, that any Single Man has been thus Qualified, but they All meet so Eminently in You, (not to mention those other Great Advantages, which distinguish You from the rest of the World,) that had it been possible for me to have been at a Loss to whom I should have Addressed my self, Thousands would have named You in the same Instant.</p>
+                  <p>To make this <hi>Collection</hi> Compleat, and that it might consist of some of the best Foreign Hands as well as our own, I have at the End inserted some of <hi>Gratiano</hi>'s and <hi>Carissime</hi>'s Compositions, which you, with the rest of the just Judges of <hi>Musick,</hi> so much Esteem.</p>
+                  <p>Pardon me then, Sir, if I presume to beg Your Protection for these Papers, 'tis the utmost of my Fidelity and Love to my Charge; and I shall now have the Glory of Providing Better for other Men's Works, than ever the Fondest Author could do for His Own. I am,</p>
+                  <closer>
+                     <salute>SIR,</salute>
+                     <signed>Your most Humble Servant, <hi>Henry Playford.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="poem">
+                  <pb facs="tcp:50322:4"/>
+                  <head>To Dr. <hi>John Blow,</hi> and Mr. <hi>Henry Purcell,</hi> upon the First and Second Books of <hi>HARMONIA SACRA.</hi>
+                  </head>
+                  <l>WHen Sacred Numbers, and Immortal Lays,</l>
+                  <l>Joyn'd to Record the Great Almighty's Praise.</l>
+                  <l>Indulgent Heav'n the Poet did inspire</l>
+                  <l>With Lofty <hi>Song</hi> to fill the Tuneful Lyre.</l>
+                  <l>Thus when of Old, from <hi>Egypt</hi>'s fruitful Land</l>
+                  <l>God brought forth <hi>Moses</hi> by a mighty Hand,</l>
+                  <l>His joyful Tongue with untaught Numbers flow'd,</l>
+                  <l>Th'unusual <hi>Harmony</hi> its Author show'd.</l>
+                  <l>The Sea divided as he pass'd along,</l>
+                  <l>Retreating back at his Triumphant Song.</l>
+                  <l>When <hi>David</hi>'s Hand upon his Harp was found,</l>
+                  <l>Heav'n soon Repenting, listen'd to the Sound.</l>
+                  <l>And struggling Nature chang'd her wonted Course,</l>
+                  <l>Unab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e to re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ist his <hi>Musick</hi>'s Sacred Force.</l>
+                  <l>His Prince's Rage this taught him to Controul,</l>
+                  <l>And Tune the Discords of his Troubled Soul.</l>
+                  <l>Not Fabled <hi>Orpheus,</hi> or <hi>Amphion</hi>'s Verse,</l>
+                  <l>Can such amazing Prodigies rehearse.</l>
+                  <l>We <hi>here</hi> the Mystic Art may learn t'u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fold,</l>
+                  <l>And feel the Wonders which we there are told.</l>
+                  <l>No Cloudy Passions can our Breasts invade,</l>
+                  <l>When <hi>Sacred Harmony</hi> dispels the Shade.</l>
+                  <l>Here sprightly Numbers raise our heighten'd Zeal,</l>
+                  <l>And Charming Sounds Seraphic Joys reveal.</l>
+                  <l>Each Skilful Hand and Tongue at once conspire</l>
+                  <l>With Strings and Voice to make a Tuneful Choir:</l>
+                  <l>Whilst mighty Joys the Ravish'd Senses wound,</l>
+                  <l>And the Soul labours with th'Inspiring Sound.</l>
+                  <l>Whither aloft it Tow'rs <hi>Isaiah</hi>'s Flight,</l>
+                  <l>Wing'd by Devotion to the greatest Height;</l>
+                  <l>Or Mourning with the <hi>Royal Prophet</hi> lies,</l>
+                  <l>And Weeps <hi>Jerusalem</hi>'s just Miseries;</l>
+                  <l>Or loves sweet <hi>Sion</hi>'s beauteous Joys to tell,</l>
+                  <l>"Where God himself chiefly delights to dwell;</l>
+                  <l>Such lofty Measures, Notes so sweet, so strong,</l>
+                  <l>Exalt the Numbers, and Improve the Song.</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Dr.</hi> John Blow, <hi>and Mr.</hi> Henry Purcell.</note>Hail mighty Pair! Of <hi>Jubal</hi>'s Sacred Art,</l>
+                  <l>The greatest Glory! —</l>
+                  <l>Not skilful <hi>Asaph</hi> understood so well,</l>
+                  <l>And <hi>Heman</hi> vainly labour'd to Excel.</l>
+                  <l>Where e'er the Gospel's Sacred Page is sung,</l>
+                  <l>Where e'er great <hi>David</hi>'s Tuneful Harp is <hi>strung,</hi>
+                  </l>
+                  <l>Each Sacred Verse shall your Just Glories raise,</l>
+                  <l>Each dancing String shall Eccho forth your Praise.</l>
+                  <l>The Church as yet could never boast but Two</l>
+                  <l>Of all the Tuneful Race, from <hi>Jubal</hi> down to <hi>You.</hi>
+                  </l>
+                  <closer>
+                     <signed>
+                        <hi>H. SACHEVERELL,</hi> of <hi>Magd. Coll. Oxon.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="poem">
+                  <pb facs="tcp:50322:4"/>
+                  <head>To his unknown Friend, Mr. <hi>Henry Purcell,</hi> upon his Excellent Compositions in the First and Second Books of <hi>HARMONIA SACRA.</hi>
+                  </head>
+                  <lg>
+                     <l>LOng had Dark Ignorance our Isle o'erspread,</l>
+                     <l>Our <hi>Musick</hi> and our <hi>Poetry</hi> lay dead:</l>
+                     <l>But the dull Malice of a Barb'rous Age,</l>
+                     <l>Fell most severe on <hi>David</hi>'s Sacred Page;</l>
+                     <l>To wound his Sense, and quench his Heav'n-born Fire,</l>
+                     <l>Three dull Translators lewdly did conspire.</l>
+                     <l>In holy Dogg'rel, and low-chiming Prose,</l>
+                     <l>The King and Poet they at once Depose.</l>
+                     <l>Vainly he did th' unrighteous Change bemoan,</l>
+                     <l>And languish'd in vile Numbers not his own:</l>
+                     <l>Nor stop'd his Usage here —</l>
+                     <l>For what escap'd in <hi>Wisdom</hi>'s ancient Rhimes,</l>
+                     <l>Was murder'd o'er and o'er by the <hi>Composer</hi>'s <hi>Chimes.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>What Praises, <hi>Purcell,</hi> to thy Skill are due;</l>
+                     <l>Who hast to <hi>Judah</hi>'s Monarch been so True?</l>
+                     <l>By thee he moves our Hearts, by thee he Reigns,</l>
+                     <l>By thee shakes off his old Inglorious Chains,</l>
+                     <l>And sees new Honours done to his Immortal Strains.</l>
+                     <l>Not <hi>Italy,</hi> the Mother of each Art,</l>
+                     <l>Did e'er a Juster, Happier Son impart.</l>
+                     <l>In thy Performance we with Wonder find</l>
+                     <l>
+                        <hi>Bassani</hi>'s Genius to <hi>Corelli</hi>'s joyn'd.</l>
+                     <l>Sweetness combin'd with Majesty, prepares</l>
+                     <l>To raise Devotion with Inspiring Airs.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus I unknown my Gratitude express,</l>
+                     <l>And conscious Gratitude could pay no less.</l>
+                     <l>This Tribute from each <hi>British Muse</hi> is due,</l>
+                     <l>Our whole Poetic Tribe's oblig'd to you.</l>
+                     <l>For where the Author's scanty Words have fail'd,</l>
+                     <l>Your happier Graces, <hi>Purcell,</hi> have prevail'd.</l>
+                     <l>And surely none but you with equal Ease</l>
+                     <l>Could add to <hi>David,</hi> and make <hi>Durfy</hi> please.</l>
+                  </lg>
+                  <closer>
+                     <signed>T. BROWN.</signed>
+                  </closer>
+               </div>
+               <div type="poem">
+                  <head>To my Worthy Friend Mr. <hi>Henry Playford,</hi> upon his <hi>HARMONIA SACRA.</hi>
+                  </head>
+                  <l>
+                     <hi>MUsick</hi> and <hi>Verse</hi> have been abus'd too long,</l>
+                  <l>Idly to furnish out some Wanton <hi>Song;</hi>
+                  </l>
+                  <l>To varnish Vice, to make loose Folly shine,</l>
+                  <l>And gild the vain Delights of Love, or Wine:</l>
+                  <l>Both Heav'nly-born, but both constrain'd to fall</l>
+                  <l>So far below their great Original,</l>
+                  <l>The Erring World, not knowing how to trace</l>
+                  <l>Through Vile Employments their Celestial Race.</l>
+                  <l>Suppos'd their Birth was, as their Office, Base.</l>
+                  <l>Rescu'd by you, they have again put on</l>
+                  <l>Those Glorious Rays with which at first they shone;</l>
+                  <l>Assert their Native Honour; and excite,</l>
+                  <l>With awful Pleasure, Rev'rence, and Delight:</l>
+                  <l>Here no loud Rant, no wild ungovern'd Strain,</l>
+                  <l>Invokes plump <hi>Bacchus,</hi> and his sordid Train;</l>
+                  <l>Here no fond Couplet kindles am'rous Fires,</l>
+                  <l>No melting Note gives Birth to loose Desires:</l>
+                  <l>Each Air, each Line, which in this Work appear,</l>
+                  <l>Angels may fitly Sing, and Saints may hear.</l>
+                  <l>Go on, my Friend; set Sacred <hi>Musick</hi> free</l>
+                  <l>From Scandal, and more Sacred <hi>Poetry:</hi>
+                  </l>
+                  <l>Publish'd by You, with double Grace they shine,</l>
+                  <l>Lovely and Grave, Harmonious and Divine.</l>
+                  <closer>
+                     <signed>By an Unknown Hand.</signed>
+                  </closer>
+               </div>
+               <div type="index">
+                  <pb facs="tcp:50322:5"/>
+                  <head>A TABLE of the <hi>Divine Hymns</hi> and <hi>Dialogues</hi> contain'd in this Second Book.</head>
+                  <list>
+                     <head>A.</head>
+                     <item>AWake, my Drowsie Soul, <hi>Page. 7</hi>
+                     </item>
+                     <item>All Praise to thee, my God, <hi>Page. 29</hi>
+                     </item>
+                     <item>Ah! Son of <hi>David,</hi> Help! help! (A Dialogue.) <hi>Page. 34</hi>
+                     </item>
+                     <item>
+                        <hi>Audite Sancti, Audite Justi, Page. 59</hi>
+                     </item>
+                     <item>Awake, ye Dead, <hi>Page. 71</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>B.</head>
+                     <item>Begin the Song, and strike, <hi>Page. 12</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>I.</head>
+                     <item>
+                        <hi>Jehovah</hi> Reigns, <hi>Page. 4</hi>
+                     </item>
+                     <item>In Guilty Night, (A Paraphrase.) <hi>Page. 40</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>L.</head>
+                     <item>
+                        <hi>Lord, what is Man, lost Man,</hi> Page. 1</item>
+                     <item>Lucifer Caelestis olim, Page. 67</item>
+                  </list>
+                  <list>
+                     <head>M.</head>
+                     <item>My op'ning Eyes are purg'd, <hi>Page. 9</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>O.</head>
+                     <item>O miserable Man! <hi>Page. 18</hi>
+                     </item>
+                     <item>O mighty GOD! <hi>Page. 25</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>T.</head>
+                     <item>Tell me, some Pitying Angel, <hi>Page. 5</hi>
+                     </item>
+                     <item>The Night is come, <hi>Page. 23</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <head>V.</head>
+                     <item>Venite Pastores ad Sacros, Page. 49</item>
+                     <item>Velut Palma, velut Rosa, Page. 54</item>
+                  </list>
+               </div>
+               <div type="publishers_advertisement">
+                  <head>A Catalogue of Vocal and Instrumental MUSICK, most of which are newly Reprinted for <hi>Henry Playford</hi> at his Shop near the <hi>Temple</hi> Church.</head>
+                  <p>
+                     <hi>HARMONIA SACRA,</hi> the first Book, being a Collection of <hi>Divine Hymns</hi> and <hi>Dia<g ref="char:EOLhyphen"/>logues;</hi> Set to Musick by Dr. <hi>John Blow,</hi> Mr. <hi>Henry Purcell,</hi> and other Eminent Masters. <hi>Cantica Sacra,</hi> the first and second Books, being Anthems in three and four Parts in <hi>Latin</hi> and <hi>English.</hi> The <hi>Psalms</hi> to Musick in four Parts, in Folio. The four Choice Books of <hi>Ayres</hi> and <hi>Dialogues.</hi> The four Books of the <hi>Theatre of Musick.</hi> The six Books of the <hi>Banquet of Musick.</hi> The first and second Books of <hi>Catches.</hi>
+                  </p>
+                  <p>The first and second Books of <hi>Apollo's Banquet,</hi> being Collections of the Newest Tunes for the <hi>Treble-Violin.</hi> The first and second Parts of the <hi>Division-Violin,</hi> containing the newest Grounds for the <hi>Violin.</hi> The first and second <hi>Consorts</hi> of Mr. <hi>Farmer</hi>'s <hi>Musick,</hi> in four Parts. A <hi>Consort</hi> of <hi>Musick</hi> in three Parts, by Mr. <hi>John Lenton,</hi> and Mr. <hi>Tho. Tollet.</hi> The <hi>Dancing-Master,</hi> with Tunes to each Dance, and Directions for <hi>Country-Dancing;</hi> the Eighth Edition. The <hi>Introduction</hi> to the <hi>Skill of Musick;</hi> the Twelfth Edition. A <hi>Table</hi> Engraven on <hi>Copper,</hi> shewing any <hi>Note</hi> within the Compass of the <hi>Bass-Viol;</hi> very Beneficial to <hi>Young Practitioners</hi> on that <hi>Instrument.</hi>
+                  </p>
+                  <p>☞ Likewise there is to be sold at the same place, a large Imperial <hi>BIBLE</hi> with Sculptures, fit for any Cathedral or Chapel Price bound 10<hi>l.</hi>
+                  </p>
+                  <p>☞ Also all sorts of <hi>Ruled Paper</hi> and <hi>Ruled Books,</hi> with <hi>Songs</hi> and <hi>Tunes</hi> fairly Prick'd, and <hi>Books</hi> on all other Subjects, are sold at the same Place.</p>
+               </div>
+            </front>
+            <body>
+               <div type="song">
+                  <pb n="1" facs="tcp:50322:5"/>
+                  <head>A DIVINE HYMN.</head>
+                  <byline>Words by Dr. <hi>William Fuller,</hi> formerly Lord Bishop of <hi>Lincoln.</hi>
+                  </byline>
+                  <byline>Set by Mr. <hi>Henry Purcell.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>Ord, what is Man, lost Man, that thou should'st be so mindful of him! Lord, what is Man, lost Man, that thou should'st be so mind╌ful of him! that the Son of God forsook his Glo╌ry, his A╌bode, to be╌come a poor tor╌ment╌ed Man! Lord, what is Man, lost, lost Man, that thou should'st be so mindful of him! that the Son of God for╌sook his Glo╌ry, his A<g ref="char:EOLhyphen"/>bode,
+<pb facs="tcp:50322:6"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to be╌come a poor tor╌ment╌ed Man! the De╌i╌ty was shrunk in╌to a Span, and that for me, for me, O wond'rous Love! for me, and that for me, for me, O wond'rous Love! for me. Reveal, re<g ref="char:EOLhyphen"/>veal, ye Glo╌rious Spirits, when ye knew, the way the Son of God took to renew lost Man, your vacant Places to supply; blest Spirits tell, tell, which, which did Excel, which was more prevalent, your Joy—, or your Astonishment;
+<pb n="2" facs="tcp:50322:6"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> that Man shou'd be assum'd in╌to the De╌i╌ty, that for a Worm a God shou'd die, that for a Worm a God shou'd die. Oh! Oh! for a Quill, Oh! Oh! for a Quill drawn from your Wing, to write the Praises, the Praises, to write the Praises, the Prai╌ses of th' E╌ter╌nal Love; Oh! Oh! for a Voice, Oh! Oh! for a Voice like yours, to sing that Anthem here, which once, which o╌nce you sung, you sung a╌bove: Oh! Oh! for a
+<pb facs="tcp:50322:7"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Voice like yours, to sing that Anthem here, which once you su╌ng, you sung a╌bove. <hi>Hal╌le╌lu╌jah, Hal╌le<g ref="char:EOLhyphen"/>lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le<g ref="char:EOLhyphen"/>lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah,
+<pb n="3" facs="tcp:50322:7"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le<g ref="char:EOLhyphen"/>lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah, Hal╌le╌lu╌jah.</hi>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb facs="tcp:50322:8"/>
+                  <head>A Divine HYMN.</head>
+                  <byline>Set by Mr. <hi>Barrincloe.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">J</seg>╌E╌ho╌vah</hi> Reigns, <hi>Je╌ho╌vah</hi> Reigns, let Heav'n re╌joyce, let Heav'n re<g ref="char:EOLhyphen"/>joy╌ce, joy╌ful Earth ex╌a╌lt her Voice; let Dancing Billows roa╌r, let Eccho's answer, Ec╌cho's answer from the Shoar: Let Tri╌um╌phant Joys go rou╌nd, let Tri╌um╌phant
+<pb n="4" facs="tcp:50322:8"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Joys go rou╌nd, He comes, he comes with Glo╌ry crown'd, he comes, he comes with Glo╌ry crown'd, with Glo╌ry crown'd; To Judge the Earth, the World to Sway, and his Truth, and his Truth to Me╌n Display. </p>
+                  <stage>☞ <hi>The Notes with this Mark over them are to be sung Demisemiquavers.</hi>
+                  </stage>
+               </div>
+               <div type="song">
+                  <pb facs="tcp:50322:9"/>
+                  <head>The Blessed Virgin's <hi>EXPOSTULATION;</hi> When our Saviour (at Twelve Years of Age) had with<g ref="char:EOLhyphen"/>drawn himself, <hi>&amp;c. Luke 2. v. 42.</hi>
+                  </head>
+                  <byline>Words by <hi>Nat. Tate</hi> Esq</byline>
+                  <byline>Set by Mr. <hi>Henry Purcell.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>ELL me, tell me, some, some Pi╌ty╌ing An╌gel, tell quickly, quickly, quickly say, Where, where does my Soul's swee╌t Darling Stray, in Tygers, or more cru╌el, more cru╌el, cruel <hi>Herod</hi>'s way? Ah! Ah╌! ra╌ther, ra╌ther let his lit╌tle, lit╌tle Foot-steps press un╌re╌gar╌ded throu╌gh the Wilderness, where mild╌er,
+<pb n="5" facs="tcp:50322:9"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> milder, where milder Sal╌va╌ges resort, the Desart's safer, the Desart's safer than a Ty╌rant's Court. Why, why, fairest Object of my Love, why, why dost thou from my longing Eyes re╌move? Was it, was it a Waking Dream, that did fore-tell thy Wondrous Birth, thy Wondrous, Wond╌rous, Wondrous Birth? No Vi╌sion, no, no, no, no, no Vi╌sion from a╌bove? Where's <hi>Ga╌briel,</hi> where's
+<pb facs="tcp:50322:10"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>Gabriel</hi> now, that vi╌sit╌ed my Cell? I call, I call, I call, I call, I call <hi>Ga╌briel! Ga╌briel! Ga╌briel! Ga╌briel!</hi> he comes not: Where's <hi>Ga╌briel</hi> now, that vi╌sit╌ed my Cell? I call, I call, I call <hi>Ga╌briel! Gabriel! Gabriel! Gabriel!</hi> he comes not; flatt'ring, flatt'ring Hopes, fare<g ref="char:EOLhyphen"/>wel, fare╌wel, fare╌wel, flatt'ring Hopes, fare╌wel. Me <hi>Ju╌dah</hi>'s Daughters on╌ce Caress'd, Call'd me of Mo╌thers, the
+<pb n="6" facs="tcp:50322:10"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> most, the most, the mo╌st Bless'd; call'd me of Mothers, the most, the most, the most, the mo╌st Bless'd. Now fa╌tal Change, now fa╌tal Change of Mothers, of Mo╌thers most, most Di╌stress'd, of Mo╌thers most, most Di╌stress'd, How, how, how shall my Soul its Mo╌tions guide? How, how, how shall my Soul its Mo╌tions
+<pb facs="tcp:50322:11"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> guide? guide? How, how, how, how shall I stem, how shall I stem the va╌rious, various Tide, whilst Faith and Doubt my Lab'╌ring <stage>How, <hi>&amp;c.</hi>
+                     </stage> Soul di╌vide? ╌vide? For whilst of thy dear, dear Sight beguil'd, I trust the God, but Oh! I fear, but Oh╌! Oh! I fear the Child: </p>
+               </div>
+               <div type="song">
+                  <pb n="7" facs="tcp:50322:11"/>
+                  <head>A Divine HYMN. A. <hi>2.</hi> Voc.</head>
+                  <byline>Set by Mr. <hi>Robert King.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>╌wake, awake, awake, my Drowsie Soul, a<g ref="char:EOLhyphen"/>rise, <seg rend="decorInit">A</seg>╌wake, a╌wake, awake, my Drowsie Soul, a<g ref="char:EOLhyphen"/>rise, and hear thy Great, thy Great Cre╌a╌tor's Voice; and hear thy Great, and hear thy Great, thy Great Cre╌a╌tor's Voice; A<g ref="char:EOLhyphen"/>wake, A╌wake, a╌wake, a╌wake, my Drowsie Soul, a╌rise, and hear, and hear, a╌wake, a╌wake, my Drowsie Soul, a╌rise, and hear, and and hear thy Great, thy Great Cre╌a╌tor's Voice; Loud as the hear, and hear thy Great Cre╌a╌tor's Voice; Loud as the Last Great Trump he
+<pb facs="tcp:50322:12"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Last Great Trump he cries, loud as the Last Great Trump, the La╌st cries, loud as the Last Great Trump he cries, the La╌st Great Trump he cries, Awake to E╌ver╌last╌ing Great Trump he cries, A╌wake to E╌ver╌last╌ing Joys, A╌wake to E╌ver╌last╌ing Joys, A╌wake to E╌ver╌last╌ing, E╌ver╌last╌ing Joys, to E╌ver╌last╌ing Joys. Joys, A╌wake to E╌ver╌last╌ing Joys, to E╌ver╌last╌ing Joys. Prepare for long Tri╌um╌phant Bliss, Tri╌um╌phant Prepare for long Triumphant Bliss, for long Tri╌um╌phant
+<pb n="8" facs="tcp:50322:12"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Bliss, for long Tri╌um╌phant Bliss, prepare for long Tri╌um╌phant Bliss, for long Triumphant Bliss, prepare for long Triumphant Bliss, for long Triumphant Bliss, pre╌pare for long Tri╌um╌phant Bliss, prepare for long Tri╌um╌phant Bliss, pre╌pare for long Tri╌um╌phant Bliss; Bliss, pre╌pare for long Tri╌um╌phant Bliss; To Reign with him who chang'd thy Doom, to Reign with him, who was, and To Reign with him who chang'd thy Doom, to Reign with him, who was, and
+<pb facs="tcp:50322:13"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> is, who was, and is to come; who was, who was, who was, who was, and is, who was, and is to come; and is, and is, and is, who was, and is, and is to come: To Reign with him, who was, and is, who was, and is, and is to is, and is to come: To Reign with him, who was, and is, and is to come; who was, who was, who was, and is, and is to come; who was, who was, come; and is, and is, and is, and is to come; and is, and who was, and is, and is to come. is, who was, and is to come. </p>
+               </div>
+               <div type="song">
+                  <pb n="9" facs="tcp:50322:13"/>
+                  <head>A Divine Song on the <hi>PASSION</hi> of our <hi>SAVIOUR.</hi>
+                  </head>
+                  <stage>Slow</stage>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>╌Y op'ning Eyes are purg'd, and lo! a dismal Scene of mighty <stage>☞ <hi>The Notes with this Mark * over them are to be sung Demisemiquavers.</hi>
+                     </stage> Woe! a dis╌mal Scene of migh╌ty Woe! What is't I see? Mankind's Re<g ref="char:EOLhyphen"/>deemer stre╌tch'd up╌on the Cursed Tree, up╌on the Cursed Tree; with ghastly Wounds his Bo╌dy torn, his Limbs with ruder Scour╌ges worn; no room for Doubt; A╌las! A╌las! 'tis He! See, my Soul, the Purple Pride, that a<g ref="char:EOLhyphen"/>dorns his Thorny Crown; see, see the Streams that haste to meet another head╌long bloody
+<pb n="10" facs="tcp:50322:14"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Tide, from his Hands, and from his Side, to his no less wounded Feet, trickling down, trickling down; See, see the Streams trick╌ling down, trick╌ling down; see, see the Streams, see the Streams trickling down. Look, look how the meriting Drops gush out from their wide Wound; Mysterious Drops of mighty Price, Mysterious Drops of mighty Price, Mysterious Drops of mighty Price, each, each an offending World's sufficient Sacrifice; Like common Gore they stain the blushing Earth around, from all his empti'd Veins they
+<pb n="11" facs="tcp:50322:14"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> flo╌w, from all his empti'd Veins they flo╌w, from all his empti'd Veins they flo╌w: Profuse, and Pro╌di╌gal, as worthless Streams; Ah see 'em how they fall! Ah see 'em how they fall! Ah see 'em how they fall! Profuse, and Pro╌di╌gal, as worthless Streams; Ah see 'em how they fall! Ah see 'em how they fa╌ll! Ah see 'em, see 'em how they fa╌ll! Ah see 'em how they fall! </p>
+               </div>
+               <div type="song">
+                  <pb n="12" facs="tcp:50322:15"/>
+                  <head>The <hi>RESURRECTION,</hi> out of Mr. <hi>Cowley</hi>'s <hi>Pindaricks.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">B</seg>Egin the Song, and Strike the Li╌ving Lyre, Lo, how the Year's to come, a nu╌me╌rous and well fit╌ted Quire; all Hand in Hand do de╌cent╌ly advance, do de╌cent╌ly, do de╌cent╌ly advance, and to my Song with smoo╌th and e╌qual Measures dance: Whilst the dance lasts, how lo╌ng so╌e'er it be, my Musick's Voice, my Mu╌sick's Voice shall bear it com╌pa╌ny, till
+<pb n="13" facs="tcp:50322:15"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> all gen╌tle Notes be drown'd, in the Last Trum╌pet's dreadful Sound; that to the Sphears themselves shall Si╌lence bring, un╌tune the U╌ni╌ver╌sal String: Then all the wide extended Sky, and all th'Har╌mo╌nious World on high, and <hi>Virgil</hi>'s Sa╌cred Work shall die: And he himself shall see in one Fi╌re shine, rich Nature's ancient <hi>Troy,</hi> though bui╌lt by Hands Divine; whom Thu╌n╌der's dismal Noise, and all the
+<pb n="14" facs="tcp:50322:16"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Prophets and A╌po╌stles lou╌der spake, and all the Creatures plain con╌spi╌ring Voice could not, whilst they liv'd, awake: This mightier Sou╌nd shall make when Dead to a╌rise, and o╌pen Tombs, and open Eyes, to the long Sluggards of Five thousand Years; this mightier Sou╌nd, this mightier Sou╌nd shall make its Hearers Ears. Then shall the scat╌ter'd Atoms crowding, come back to their ancient Home; Some from
+<pb n="15" facs="tcp:50322:16"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Birds, from Fishes some, some from Earth, and some from Seas, some from Beasts, and some from Trees; some de╌sce╌nd from Clouds on high, some from Me╌tals upward fly; some de╌sce╌nd from Clouds on high, some from Metals up╌ward fly. And where th'at╌ten╌ding Soul naked and shi╌ve╌ring stands, meer, salute, and joyn their Hands; as di╌spers'd Soldiers at the Trum╌pets Call, ha╌st to their Colours all; un╌hap╌py, most like tor╌tur'd Men, their Joynts new
+<pb n="16" facs="tcp:50322:17"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> set, to be new wra╌ck'd a╌gain: To Mountains they for Shel╌ter pray, the Mountains shake, and ru╌n a╌bout no less con╌fu╌s'd than they; the Mountains shake, and ru╌n a╌bout no less confus'd, no less con<g ref="char:EOLhyphen"/>fus'd, no less confus'd, no less con╌fu╌s'd than they. Stop, stop, my Muse, al╌lay thy vig'rous Heat, kindled at a hint, so great; hold thy Pindarique <hi>Pe╌ga╌sus</hi> close╌ly in, which does to Ra╌ge be╌gin; and this steep Hill wou'd gal╌lop up with vi╌o╌lent
+<pb n="17" facs="tcp:50322:17"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> course, 'tis an un╌ru╌ly and hard-mouth'd Horse; fier╌ce, and un╌bro╌ken yet, im╌pa╌tient of the Spur, or Bit: now Prances state╌ly, and a╌non fli╌es o'er the place, dis╌dains the servile Law of a╌ny set╌led Pace; conscious and proud of his own nat'ral Force, 'twill no un╌skil╌ful Touch endure, but flings Writer and Reader too, tha╌t sits not sure. </p>
+                  <byline>
+                     <hi>Mr.</hi> Henry Purcell.</byline>
+               </div>
+               <div type="song">
+                  <pb n="18" facs="tcp:50322:18"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> ╌, O mi╌se╌ra╌ble Man! how wretch╌ed is thy State, born to un╌der╌go the Drud╌ge╌ry of Fate; thine and thy Fathers Sins to feel, and know, and toyl be╌neath the migh╌ty weight of Woe, the migh╌ty weight of Woe? Nor yet, a╌las! dost thou a<g ref="char:EOLhyphen"/>lone, beneath the bit╌ter Anguish Groan, but ev'n to others too thou Mis'ries dost create. With Pangs and Throws thou in╌to the Wor╌ld dost come, the hea╌vy Curse, and
+<pb n="19" facs="tcp:50322:18"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Bur╌then of thy Mo╌ther's Womb; the Dawn of Life, its part of Torments Shares, 'tis Usher'd in with Cries, and all, and all be╌dew'd with Tears. How short is Life! we scarcely draw our Breath, but we must strait sur╌ren╌der't up to Death; Time on its Wings our Substance does convey, unknown to us it steals us from our selves a╌way. To this great Spoi╌lar <hi>Time</hi> a spee╌dy Prey we fa╌ll, with his im╌par╌tial Scythe he mow╌s us all; like an un<g ref="char:EOLhyphen"/>time╌ly
+<pb n="20" facs="tcp:50322:19"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Flow'r on Earth we're laid, cut up, in one short moment wi╌thred, pale, and dead: Here we consume in Tumult, Noise, and Strife, that Oyl which should sup<g ref="char:EOLhyphen"/>ply and see╌d the Lamp of Life; we spur it on, till i'th' too vio╌lent Pace, our ja╌ded Life quite tires amidst the Race. Not the Phy╌si╌cians Drugs can Life en<g ref="char:EOLhyphen"/>sure, Fate is re╌sist╌less, and admits no Cure; all, all╌'s vain, he and his Drugs must Rot and Die, must Pe╌rish, must Pe╌rish and De╌cay, at well as you and
+<pb n="21" facs="tcp:50322:19"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> I. O, O whither then for Succour shall we flee! O, O whither, dear╌est God, O whither, but to thee! One gra╌cious Look from thee can give us Ease, and make the A╌go╌nies of Death it self to please; thy Wounds can make us whole, thy Blood wash off our Stains, and pu╌ri╌fie our Soul, loaded with all our Sins: Press'd dow╌n we fall, while Hell its black Jaws stretch╌es to de<g ref="char:EOLhyphen"/>vour us all, stretch╌es to de╌vour us all. <stage>(CHORUS over Leaf.)</stage>
+                  </p>
+                  <stage>
+                     <pb n="22" facs="tcp:50322:20"/>
+                     <hi>CHORUS.</hi>
+                  </stage>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> O Blessed Je╌su! O blessed, blessed Je╌su! Help, help, help, we sink╌ing O Blessed Je╌su! O blessed, blessed Je╌su! Help, help, we sink╌ing O Blessed Je╌su! O blessed, Je╌su! Help, help, we sink╌ing are! O, we're swallow'd up in the vast Gulph of black Despair! O, are! O, we're swallow'd up in the vast Gulph of black Despair! O, are! O, we're swallow'd up in the vast Gulph of black Despair! O, Mercy, Mercy, Mercy, we for Mer╌cy cry, Help, help, O help, help, help, help, Mercy, Mercy, Mercy, we for Mer╌cy cry, Help, help, or we're lost, or we're lost, Mercy, Mercy, Mercy, we for Mer╌cy cry, Help, help, or we're lost, or we're lost,
+<pb n="23" facs="tcp:50322:20"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> help, we're lo╌st to all╌ E╌ter╌ni╌ty! or we're lost, we're lo╌st to all╌ E╌ter╌ni╌ty! or we're lost, we're lo╌st to all E╌ter╌ni╌ty! </p>
+                  <byline>Mr. <hi>Daniel Purcell.</hi>
+                  </byline>
+               </div>
+               <div type="song">
+                  <head>An EVENING HYMN.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">T</seg>HE Night is come, the Night is come, the Night is co╌me, like to the Day, de╌part not thou, de╌part not thou, Grea╌t God, a╌way; on thee, O Lor╌d, I do╌ Repose, pro<g ref="char:EOLhyphen"/>tect <stage>☞ <hi>The Notes with this Mark * over them are to be sung Demisemiquavers.</hi>
+                     </stage>
+                     <pb n="24" facs="tcp:50322:21"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> me, pro╌tect me fro╌m my Watchful Foes: So shall╌ I se╌cure╌ly lay, and sweet╌ly, and sweet╌ly pass the Hours away, and sweet╌ly pass the Hours away. <stage>CHORUS. <hi>A</hi> 2. <hi>Voc.</hi>
+                     </stage>
+                     <hi>In heav'nly Dreams my Sou╌l advance, O make, O make my Sleep a Ho╌ly Trance: In heav'nly Dreams my Soul advance, O make my Sleep a Ho╌ly Trance: Sleep is a Death, O let me try, by Slee╌ping, how it is to Die. Sleep is a Death, O let me try, by Slee╌ping, how it is to Die.</hi>
+                  </p>
+               </div>
+               <div type="song">
+                  <pb n="25" facs="tcp:50322:21"/>
+                  <head>A PENITENTIAL HYMN:</head>
+                  <byline>
+                     <hi>Set by Dr.</hi> John Blow.</byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">O</seg> ╌, O migh╌ty God, O╌ migh╌ty God, who sit'st on High, encircled rou╌nd, rou╌nd, with Ma╌je<g ref="char:EOLhyphen"/>sty; Behold thy Pro╌strate Penitent, and teach me, teach me right╌ly to La<g ref="char:EOLhyphen"/>ment
+<pb n="26" facs="tcp:50322:22"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> my se╌cret Sins, my se╌cret Sins, and youthful Fires, pol╌lu╌ted Thoughts, pol╌lu╌ted Thoughts, and fon╌d, fon╌d, fon╌d De╌sires. O let me, let me ne╌ver, ne╌ver close my Eye, but still, O still, but still, O still new Floo╌ds, new Floods sup╌ply; pro╌voke my Sighs, my Griefs en╌crease, till all, all, all thy dread╌ed Veng'ance cease; till all, all, till all thy dreaded
+<pb n="27" facs="tcp:50322:22"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Ven╌g'ance cease: My Heart, which Har╌bours Gros╌ser Fires, Dis╌solve, O migh╌ty, Dissolve, O migh╌ty God, in Tears. Thus when of Old, when of Old, thus when of Old, the Subborn Rock, felt thy Prophets pow'r╌ful, pow'r╌ful, pow'rful Stroke; the Rock began, be╌gan to melt, to melt, the Rock began to melt, to melt╌, the Stone pour╌'d its
+<pb n="28" facs="tcp:50322:23"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> stream╌ing Moi╌sture down: The Flint, where Fire was lodg'd╌, till now, where Fire was lodg'd, lodg'd, till now, did all╌, all╌, all╌, all, all, dis╌solv'd in Wa╌ters, flow, did all╌, all╌, all╌, all, dis╌solv'╌d in Waters, dis╌solv'╌d in Waters, flow. </p>
+               </div>
+               <div type="song">
+                  <pb n="29" facs="tcp:50322:23"/>
+                  <head>An EVENING HYMN.</head>
+                  <byline>The Words by Bishop <hi>Ken.</hi>
+                  </byline>
+                  <byline>Set by Mr. <hi>Jeremiah Clarke.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>LL Praise to thee my God this Night, for all the Blessings of the Light; keep me, Oh keep me, King of Kings, un╌der thy own Al╌migh╌ty Wings: Forgive me, Lord, for╌give me, for thy dear Son, the Ill that I this day have done, that with the World, my self, and thee, I, e're I sleep, at Peace may be: Teach me to live, that I may dread the Grave as lit╌tle as my Bed; teach me to die, teach me to
+<pb n="30" facs="tcp:50322:24"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> die, so that I may Triumphing Ri╌se at the Last Day; teach me to Die, teach me to Die, so that I may Triumphing Ri╌se at the Last Day. Oh may my <stage>[Ground.]</stage> Soul on thee re╌pose, re╌pose, and with sweet Sleep, sweet Sleep, mine Eye╌lids close; Sleep that may me more vig'rous, more vig'rous make, to
+<pb n="31" facs="tcp:50322:24"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> praise my God when I a╌wake, -wake. When in the Night I sleepless lie, my Soul with Heav'nly Thoughts sup╌ply; let no ill Dreams di╌sturb my Rest, no Pow'rs of Dark╌ness me mo╌lest, no Pow'rs of Darkness me mo╌lest, -lest. My dearest Lord, how, how am I griev'd, to lye so long of thee bereav'd! Dull Sleep of Sence, me to deprive, I am but half, but half my Days a╌live! But tho' Sleep o'er my Weakness reigns, let it not hold me long in
+<pb n="32" facs="tcp:50322:25"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Chains, but now and then let loose my Heart, now and then let loose my Heart, till it an Hal╌le╌lu╌jah dart; the fast╌er Sleep the Sence does bind, the more un╌fet╌ter'd is the <stage>
+                        <hi>[A littl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> faster.]</hi>
+                     </stage> Mind. Oh may my Soul from Mat╌ters free, the unveil'd Goodness wa╌king see, see. Oh! Oh! Oh when shall I in end╌less Day, for e╌ver chase dark Sleep a╌way, -way: And endless Praise with Heav'nly Choir, in╌ces╌sant sing, and never tire; you my best Guardians, whilst I sleep, close to my Bed your Vigils keep, and in my
+<pb n="33" facs="tcp:50322:25"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> stead all the Night long, sing to my God a grate╌ful Song, sing, sing, sing to my God a grateful Song. </p>
+                  <stage>
+                     <hi>CHORUS. A.</hi> 3. <hi>Voc.</hi>
+                  </stage>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> PRaise God, from whom all Blessings flow, praise him all Creatures here below; Praise him <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>bove PRaise God, from whom all Blessings flow, praise him all Creatures here below; Praise him a<g ref="char:EOLhyphen"/>bove PRaise God, from whom all Blessings flow, praise him all Creatures here below; Praise him a<g ref="char:EOLhyphen"/>bove the An╌ge╌lick Host, praise the Father, praise the Son, praise the An╌ge╌lick Host, praise the Father, praise the Son, praise, the An╌ge╌lick Host, praise the Father, praise the Son, praise, <stage>
+                        <pb n="34" facs="tcp:50322:26"/>
+                        <hi>Soft.</hi>
+                     </stage> praise the Holy Ghost; praise the Father, praise the Son, praise, praise the Holy Ghost; praise the <stage>Soft.</stage> praise the Holy Ghost; praise the Father, praise the Son, praise, praise the Holy Ghost; praise the <stage>Soft.</stage> praise the Holy Ghost; praise the Father, praise the Son, praise, praise the Holy Ghost; praise the <stage>Soft.</stage>
+                     <stage>Loud.</stage> Father, praise the Son, praise, praise the Holy Ghost: <hi>Amen.</hi>
+                     <stage>Loud.</stage> Father, praise the Son, praise, praise the Holy Ghost: <hi>Amen.</hi>
+                     <stage>Loud.</stage> Father, praise the Son, praise, praise the Holy Ghost: <hi>Amen.</hi>
+                     <stage>Loud.</stage>
+                  </p>
+               </div>
+               <div type="song">
+                  <head>A <hi>DIALOGUE</hi> between the <hi>SOUL</hi> and <hi>JESUS.</hi>
+                  </head>
+                  <byline>
+                     <hi>Mr.</hi> Jeremiah Clarke.</byline>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>H! Son of <hi>David,</hi> help! help!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> What sin╌ful Cry im<g ref="char:EOLhyphen"/>plores
+<pb n="35" facs="tcp:50322:26"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> the Son of <hi>David?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 'Tis I, 'Tis I.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Who art thou?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Oh! a deep╌ly wounded Breast, that's heavy Laden, and would fain have Rest.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> I have no Scraps, and Dogs must not be fed, like Houshold Children with the Children's Bread.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> True, Lord, yet to╌le╌rate a hungry Whelp to lick their Crumbs, O Son of <hi>David,</hi> help! help!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Poor Soul! what ail'st thou?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> O! I burn, I fry, I cannot rest, I know not where to fly to find some ease, I turn'd my blub╌ber'd Face from Man to
+<pb n="36" facs="tcp:50322:27"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Man, I roll from place to place t'avoid my Tortures to ob╌tain Relief, but still I'm dogg'd and haunted with my Grief; my Midnight Torments call the Sluggish Light, and when the Morning's come, they woo the Night.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Surcease thy Tears, and speak thy free Desires.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Quench, quench thy Flames, and 'swage these scorching Fires.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Canst thou be╌lieve my Hand can cure thy Grief?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Lord, I be<g ref="char:EOLhyphen"/>lieve.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Hold forth thine Arm, and let my Fingers try thy Pulse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Yea, Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Where
+<pb n="37" facs="tcp:50322:27"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> chiefly doth thy Torment lye?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> From Head to Foot, it reigns in ev'ry p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rt, but plays the self-law'd Ty╌rant in my Heart.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Canst thou digest, canst relish wholsom Food? How stands thy Tast?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> To nothing that is good, all sin╌ful Trash, and Earth's unsav'ry Stuff, I can digest and relish well enough.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Is not thy Blood as cold as hot by turns? </p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Cold to what's good, to what is bad it burns.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> How old's thy Grief?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> I took it at the Fall, with eat╌ing Fruit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 'Tis E╌pi╌de╌mi╌cal, thy Blood's in<g ref="char:EOLhyphen"/>fected,
+<pb n="38" facs="tcp:50322:28"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> and th'Infection sprung from a bad Liver, 'tis a Feavour strong, and full of Death, un<g ref="char:EOLhyphen"/>less, with present speed, a Vein be open'd, thou must die, must, must die, or bleed. </p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <stage>[Slow.]</stage>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> O! O! O! I am faint, and spent; O! O! O! I am faint; O! O! O! I'm faint and spent; that Lance that shall let forth my Blood, lets forth my Life withal; my Soul wants Cordials, and has greater, has greater need of Blood, than be╌ing spent so far to bleed: I faint al<g ref="char:EOLhyphen"/>ready,
+<pb n="39" facs="tcp:50322:28"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> if I bleed I die; I faint al╌rea╌dy, if I bleed I die.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 'Tis ei╌ther thou must bleed, sick Soul, or I; my Blood's a Cordial, he that sucks my Veins, shall cleanse his own, and con╌quer, con╌quer great╌er Pains than these: Chear up, chear up, this precious Blood of mine shall cure thy Grief, my Heart shall bleed, shall bleed for thine; be╌lieve me, be╌lieve me, and view me with a faith╌ful Eye, thy Soul shall neither languish, bleed, nor die.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Lord, I believe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Thy
+<pb n="40" facs="tcp:50322:29"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Soul shall neither languish.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Neither languish?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Neither languish.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Nor bleed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Nor bleed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Nor die?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Jesus.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Nor die; thy Soul shall nei╌ther </p>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Neither languish, bleed, nor die. languish, languish, bleed, nor die. </p>
+                  </sp>
+               </div>
+               <div type="song">
+                  <head>A Paraphrase on the 28<seg rend="sup">th</seg> Chapter of the First Book of <hi>Samuel,</hi> from Verse <hi>8,</hi> to Verse <hi>20.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">I</seg>╌N <seg rend="decorInit">I</seg>╌N guil╌ty Night, and hid in fal╌se, <seg rend="decorInit">I</seg>╌N guil╌ty Night, and hid in fal╌se
+<pb n="41" facs="tcp:50322:29"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> guil╌ty Night, and hid in fal╌se dis╌guise, forsaken <hi>Saul,</hi> and hid in fal╌se dis╌guise, for╌sa╌ken <hi>Saul,</hi> forsaken <hi>Saul,</hi> disguise, and hid in false dis╌gui╌se, forsaken forsaken <hi>Saul,</hi> for╌sa╌ken <hi>Saul,</hi> forsaken <hi>Saul,</hi> to <hi>En╌dor</hi> comes, and cries; forsaken forsaken <hi>Sau╌l,</hi> forsaken <hi>Saul,</hi> to <hi>En╌dor</hi> comes, and cri╌es, <hi>Saul,</hi> for╌sa╌ken <hi>Sau╌l,</hi> to <hi>Endor</hi> comes, and cries; <hi>Saul,</hi> forsaken <hi>Saul,</hi> forsaken <hi>Saul,</hi> forsaken <hi>Saul</hi> to <hi>En╌dor</hi> comes, and cries. for╌sa╌ken <hi>Saul,</hi> forsaken <hi>Saul</hi> to <hi>En╌dor</hi> comes, and cries: for╌sa╌ken <hi>Saul,</hi> forsaken <hi>Saul,</hi> forsaken <hi>Saul,</hi> to <hi>Endor</hi> comes, and cries. </p>
+                  <sp>
+                     <pb n="42" facs="tcp:50322:30"/>
+                     <speaker>Saul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Woman, a╌rise, a╌rise, call, call pow'r╌ful Arts to<g ref="char:EOLhyphen"/>gether, and rai╌se, and rai╌se the Ghost, whom I shall name, up hither. </p>
+                  </sp>
+                  <sp>
+                     <speaker>Witch.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Why, why, why should'st thou wish me dye? Forbear, forbear, for╌bea╌r, my Son, dost thou not know, dost thou not know what cru╌el <hi>Saul</hi> has done? Forbear, for<g ref="char:EOLhyphen"/>bear, for╌bea╌r, my Son, dost thou not know what cru╌el <hi>Saul</hi> has done? How he has kill'd, has kill'd and murder'd all, all, all tha╌t were
+<pb n="43" facs="tcp:50322:30"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Wise, and could, and could on Spirits call?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Saul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Woman, be bo╌ld, be bo╌ld, do but th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> thing I wish, no harm, no, no, no, no, no harm from <hi>Saul</hi> shall come to thee for this. </p>
+                  </sp>
+                  <sp>
+                     <speaker>Witch.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Whom shall I raise, or call? I'll make him hear.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Saul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Old <hi>Samuel,</hi> let on╌ly him ap<g ref="char:EOLhyphen"/>pear. </p>
+                  </sp>
+                  <sp>
+                     <speaker>Witch.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> A╌las!╌ A╌las!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Saul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> What, what dost thou fear?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Witch.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> A╌las!╌ A╌las!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Saul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> What, what dost thou fear?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Witch.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Nought else but thee, for thou art <hi>Saul,</hi> for thou art
+<pb n="44" facs="tcp:50322:31"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>Saul,</hi> a╌las! thou art <hi>Saul,</hi> and hast beguiled me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Saul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Peace, peace, and go on, what seest thou, let me know?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Witch.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> I see the Gods a╌scen╌ding from be╌low.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Saul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Who's he that comes?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Witch.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> An old Man mantled o'er.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Saul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Oh! that is he, Oh! that is he, let me, let me, let me that Ghost a╌dore.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Samuel.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Why, why hast thou robb'd me of my Rest, to see, to see that which I hate? Why, why hast thou robb'd me of my Rest, to see that which I hate, to see that which I hate, this wicked World,
+<pb n="45" facs="tcp:50322:31"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> this wicked World, and thee?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Saul.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Oh! ╌ Oh! ╌ I'm sore distress'd, vex╌ed sore, God has left me, Oh!╌ God has left me, and answers me no more; distress'd with War, with inward Ter╌rors too, for pi╌ty's sake, Oh! for pi╌ty's sake, tell me, Oh! tell me, Oh! for pi╌ty's sake, tell me, tell me, tell me, what shall I do?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Samuel.</speaker>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Art thou for╌lorn of God, and com'st to me? What can I tell thee then, but Mi╌se╌ry? Thy Kingdom's gone in╌to thy Neighbours
+<gap reason="missing" extent="2 pages">
+                           <desc>〈2 pages missing〉</desc>
+                        </gap>
+                        <pb n="48" facs="tcp:50322:32"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Race, thine Host shall fall by Sword before thy Face: What can I tell thee then, but Mi╌se╌ry? To morrow, to morrow then, till then farewel, fare╌wel, and Breath, thou and thy Son to morrow, to morrow, thou and thy Son shall be╌ with me beneath. </p>
+                  </sp>
+                  <sp>
+                     <speaker>CHORUS.</speaker>
+                     <stage>[Very slow.]</stage>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Farewel, farewel, farewel, farewel, farewel, farewel, farewel, farewel, farewel. Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! farewel. Farewel, farewel, farewel, farewel, farewel, farewel, farewel, farewel, farewel. </p>
+                  </sp>
+                  <byline>
+                     <hi>Mr.</hi> Henry Purcell.</byline>
+               </div>
+               <div type="song">
+                  <pb n="49" facs="tcp:50322:32"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">V</seg>E╌ni╌te, ve╌ni╌te Pa╌sto╌res ad Sacros A╌mo╌res, Ve<g ref="char:EOLhyphen"/>ni╌te, ve╌ni╌te Pa╌sto╌res ad Sacros A╌mo╌res, tran╌si╌te, vi╌de╌te cum Pu╌e╌ro Verbum cum Vir╌gi╌ne natum in pa╌le╌â, numen in no╌cte la╌tentem cum lu╌mi╌ne Solis; tran╌si╌te, vi╌de╌te, ve╌ni╌te Pa╌sto╌res, ve╌ni╌te, ve╌ni╌te Pasto<g ref="char:EOLhyphen"/>res, ve╌ni╌te, ve╌ni╌te Pa╌sto╌res: I╌te greges ad Pas╌cu╌a per mo╌n╌tes &amp; Colles, per Silvas &amp; Colles, dis╌cur╌ri╌te Val╌les jam Coeli nos
+<pb n="50" facs="tcp:50322:33"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> vi╌a, jam flamma be╌a╌ta cum Vir╌gi╌ne pi╌a, jam sa╌lus op╌ta╌ta ad Bethlehem ra<g ref="char:EOLhyphen"/>pit, Flos u╌bi Flos campi &amp; Li╌li╌um con╌val╌li╌um in fae╌no vi╌ces╌eit, in spinâ lan<g ref="char:EOLhyphen"/>guescit; I╌te greges ad Pas╌cu╌a, i╌te, i╌te, i╌te ad Pas╌cu╌a: <stage>Presto.</stage> Ad Pu╌e╌ri cu╌nas cae╌le╌stes le╌po╌res, ad Vir╌gi╌nis ul╌nas cae╌le╌stes a╌mo╌res, pro╌pe╌ra╌te, pro╌pe╌ra╌te, convo<g ref="char:EOLhyphen"/>la╌te. Con╌cin╌ni╌te Ar╌do╌res, con╌cin╌ni╌te
+<pb n="51" facs="tcp:50322:33"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> rores, quibus ardet, quibus alget, de╌le╌ca╌tu╌lus te╌nel╌lus so╌le Pulchrior Pu<g ref="char:EOLhyphen"/>el╌lus; quibus ardet, quibus al╌get, de╌le╌ca╌tu╌lus Pu╌el╌lus, so╌le Pulchrior, so╌le Pulchrior Pu╌el╌lus. Tu tamen in╌te╌re╌a blande Pu╌er Coe╌li de╌cus, humidulos te╌nel╌los claude Pu╌pu╌le o╌cel╌los; blande Puer Coeli de╌cus, hu╌mi╌du╌los, te╌nel╌los clau╌de, hu╌mi╌du╌los te<g ref="char:EOLhyphen"/>nel╌los claude Pu╌pu╌le o╌cel╌los. En se╌re╌nat Sol va<g ref="char:EOLhyphen"/>porem,
+<pb n="52" facs="tcp:50322:34"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> ec╌ce Flores terra dat, ponit E╌o╌lus fu╌ro╌rem, Ze╌phy╌rus╌que le╌ne flat, Tu quoque Lachrymulas blande pu╌er, ca╌ti de╌cus ter╌ge genas, &amp; sus<g ref="char:EOLhyphen"/>pi╌ri╌a linque, pu╌er mitte, procul, somnus adest, Luctus abest, claude pu╌pu╌le o<g ref="char:EOLhyphen"/>cellos. Jam Vir╌go foe╌li╌ce gau╌dens a╌spe╌ctu, jam sonor a╌mi╌co mul╌cet am╌plex╌u, <stage>Grave.</stage> Dor╌mit a╌mor Coeli, dor╌mit, dormit a╌mor Coeli, dor╌mit, <stage>Piano.</stage> dor╌mit.
+<pb n="53" facs="tcp:50322:34"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Noe, no╌e, no╌e, no╌e, no╌e, noe, noe, no<g ref="char:EOLhyphen"/>e, noe, noe, no╌e, noe, noe, no╌e, no<g ref="char:EOLhyphen"/>e noe, noe, no╌e, noe, no╌e, no╌e, noe, no╌e, no╌e, noe, no╌e, noe, noe, no╌e, no╌e noe, noe, no╌, noe, noe. </p>
+                  <byline>Signior <hi>Gratiani.</hi>
+                  </byline>
+               </div>
+               <div type="song">
+                  <pb n="54" facs="tcp:50322:35"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">V</seg>E╌lut Palma, ve╌lut Ro╌sa, ve╌lut a╌ci╌es Castrorum, ve╌lut hortus di╌ves florum, pulchra sum &amp; glo╌ri╌o<g ref="char:EOLhyphen"/>sa, ve╌lut hortus di╌ves florum, pulchra sum &amp; glo╌ri╌o╌sa. In me lau╌des &amp; ho╌no╌res, in me vi╌get for╌ti╌tu╌do, in me flo╌ret pul╌chri╌tu╌do, in me ju╌bi╌lant, ju╌bi╌lant a╌mo╌res, in me florum pul╌chri╌tu╌do, in me ju╌bi╌lant,
+<pb n="55" facs="tcp:50322:35"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> ju╌bi╌lant, ju╌bi╌lant a╌mo╌res. Sur╌ge, Sur<g ref="char:EOLhyphen"/>ge, veni, veni di╌le╌cte mi; surge, surge, veni, veni, veni, veni di╌le╌cte mi; veni, veni di╌le╌cte mi, as╌si╌mu╌la╌re Ca╌pre╌ae, hi╌nu╌lo╌que Cervorum; veni, veni dilecte mi, veni, veni dilecte mi, as╌si╌mu╌la╌re Capreae, as╌si╌mu╌la╌re Capreae, hinu╌lo╌que, hi╌nu╌lo╌que Cervorum, &amp; super
+<pb n="56" facs="tcp:50322:36"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> pennas Ventorum, am╌bu╌la, gra╌de╌re, pro╌pe╌ra, vo╌li╌ta di╌le╌cte mi, Vo╌li╌ta di╌le╌cte mi; In palmam as╌cen╌de mi chare di╌le╌cte, ex multis e╌le╌cte, in hortum de<g ref="char:EOLhyphen"/>scen╌de mi chare di╌le╌cte, ex multis e╌le╌cte, ex multis e╌le╌cte, in hor╌tum, in hortum de╌scen╌de; Hic tu ju╌bi╌la╌bis, hic <stage>☞ <hi>The Notes with this Mark * over them are to be sung Demisemiquavers.</hi>
+                     </stage>
+                     <pb n="57" facs="tcp:50322:36"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> flo╌re fru╌e╌ris, hic fructu ves╌ce╌ris, hic tu Tri╌um╌pha╌bis, hic flo╌re fru<g ref="char:EOLhyphen"/>eris, hic fructu vesceris, hic fructu ves╌ce╌ris, hic tu Tri╌um╌pha╌bis. Oh! Oh quam╌di╌u te op╌ta╌vi, quam╌di╌u de╌si╌de╌ra╌vi, quamdiu te op<g ref="char:EOLhyphen"/>tavi, quamdiu, quamdiu te ex╌pe╌cta╌vi; nova &amp; vetera ti╌bi servavi, nova &amp; ve╌te╌ra ti╌bi ser╌va╌vi; quamdiu te op╌ta╌vi, quam╌di╌u de╌si╌de╌ra╌vi:
+<pb n="58" facs="tcp:50322:37"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Nescit mo╌ras a╌mor meus, sur╌ge Deus, surge, ve╌ni, surge Deus, surge ve╌ni, nescit moras amor meus, surge Deus, surge Deus, surge Deus, veni, ve╌ni. Et super pennas ventorum, am╌bu╌la, gra╌de╌re, pro╌pe<g ref="char:EOLhyphen"/>ra, vo╌li╌ta di<g ref="char:EOLhyphen"/>le╌cte mi; &amp; su╌per pennas Ventorum, am╌bu╌la, gra╌de╌re, pro╌pe<g ref="char:EOLhyphen"/>ra, vo╌li╌ta di╌le╌cte mi, vo╌li╌ta
+<pb n="59" facs="tcp:50322:37"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> di╌le╌cte mi, vo╌li╌ta di╌le╌cte mi. </p>
+                  <byline>Signior <hi>Gratiani.</hi>
+                  </byline>
+               </div>
+               <div type="song">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>U╌di╌te, Au╌di╌te Sancti, Au╌di╌te Ju╌sti, Au╌di╌te for╌te se╌le╌cto╌rum A╌ni╌mae, Ecce vos tradet Dominus in manus impi<g ref="char:EOLhyphen"/>o╌rum,
+<pb n="60" facs="tcp:50322:38"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> ut cum pro╌ta╌ve╌rit vos, ac╌ci╌pi╌e╌tis Co╌ro╌nam vi╌tae. Si tra╌di╌de╌rit Do╌mi╌nus nos servos su╌os in ma╌nus im╌pi╌o╌rum, Si tra╌di╌de╌rit Do╌mi╌nus nos servos su╌os in ma╌nus im╌pi╌o╌rum, stabimus sta╌bi╌mus omnes in magna Con╌stan╌ti╌â, ad╌ver╌sus an<g ref="char:EOLhyphen"/>omnes in magna Con╌stan╌ti╌â, ad╌ver╌sus an╌gu╌sti╌as per╌se<g ref="char:EOLhyphen"/>gu╌sti╌as
+<pb n="61" facs="tcp:50322:38"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> per╌se╌quen╌ti╌um, Quis e╌nim nos se╌pa╌ra╌bit, quen╌ti╌um, Quis e╌nim nos se╌pa╌ra╌bit, nos se╌pa╌ra╌bit, a Cha╌ri╌ta╌te Christi? Non, a Cha╌ri╌ta╌te Chri╌sti? Tri╌bu╌la╌ti╌o, an pe╌ri╌cu╌lum, non, non se╌pa╌ra╌bit, Non, non, non se╌pa╌ra╌bi╌t, Non, non, non, se╌pa╌ra╌bit, Non, non, non se╌pa╌ra<g ref="char:EOLhyphen"/>bit, Per╌se╌cu╌ti╌o, an Fames,
+<pb n="62" facs="tcp:50322:39"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Non, non, non se╌pa╌ra╌bit, Non, non, non se╌pa╌ra╌bit, Nuditas, nuditas, an periculum, Ig╌nis, an Gladius, Non, non, non se╌pa╌ra╌bit. Non ti╌me╌bit Cor Non, non, non se╌pa╌ra╌bit. Non ti<g ref="char:EOLhyphen"/>me╌bit, Si consistant Castra ad╌ver╌sum vos, nostrum, non ti╌me╌bit Cor nostrum, non ti╌me╌bit Cor nostrum, Non ti<g ref="char:EOLhyphen"/>mebit Si ex╌ur╌gat prae╌li╌um ad╌ver╌sum vos,
+<pb n="63" facs="tcp:50322:39"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Non ti╌me╌bit, non ti╌me╌bit Cor nostrum, Non ti<g ref="char:EOLhyphen"/>mebit Cor nostrum, non ti╌me╌bit Cor nostrum, Si ma╌le dix╌e╌rint vo╌bis ho╌mi╌nes, Cor nostrum, non ti╌me╌bit Cor nostrum, Non ti╌me╌bit, non ti╌me╌bit Cor no╌strum, Si Principes per╌se╌cu╌ti vos fu╌e╌rint, Non ti╌me╌bit, non ti╌me╌bit Cor nostrum: Scimus enim quod Pas╌si╌o╌nes Non ti╌me╌bit Cor nostrum, non ti╌me╌bit Cor nostrum: Scimus enim quod Pas╌si╌o╌nes
+<pb n="64" facs="tcp:50322:40"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> nostrae, non sunt Condignae ad fu╌tu╌ram Glo╌ri╌am; nostrae, non sunt Condignae ad fu╌tu╌ram, ad fu╌tu╌ram Glo╌ri╌am; Saevientes tor<g ref="char:EOLhyphen"/>to╌rum Non sunt Con╌dig╌nae, non sunt Con╌dig╌nae ad fu╌tu╌ram Glo╌ri╌am; Non sunt Condignae ad fu╌tu╌ram, ad fu╌tu╌ram Glo╌ri╌am; manus, Formi<g ref="char:EOLhyphen"/>da╌bi╌les Non sunt Con╌dig╌nae ad fu╌tu╌ram, ad fu<g ref="char:EOLhyphen"/>turam Non sunt Con╌dig╌nae, non sunt Con╌dig╌nae ad fu<g ref="char:EOLhyphen"/>turam Le╌o╌num mo╌lae,
+<pb n="65" facs="tcp:50322:40"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Glo╌ri╌am; Non, non sunt Condignae, Glo╌ri╌am; Non, non sunt Condignae, Non, La╌ni╌en╌tes un╌gu╌lae, Ig╌ne ca╌den╌tes la╌mi╌nae, Non, non sunt Con╌dig╌nae ad fu╌tu╌ram, ad fu╌tu╌ram Glo╌ri<g ref="char:EOLhyphen"/>am; non sunt Con╌dig╌nae, non sunt Con╌dig╌nae ad fu╌tu╌ram Glo╌ri<g ref="char:EOLhyphen"/>am; Sci╌mus e╌nim quod Pas╌si╌o╌nes no╌strae, non sunt Con╌dig╌nae, Sci╌mus e╌nim quod Pas╌si╌o╌nes no╌strae, non sunt Con<g ref="char:EOLhyphen"/>dig╌nae
+<pb n="66" facs="tcp:50322:41"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> non sunt Con╌dig╌nae ad fu╌tu╌ram Glo╌ri╌am; dig╌nae ad fu╌tu╌ram, ad fu╌tu╌ram Glo╌ri╌am; Non sunt Condignae ad fu<g ref="char:EOLhyphen"/>tu╌ram Non sunt Condignae ad fu╌tu╌ram Glo╌ri╌am, ad fu╌tu╌ram Glo╌ri╌am; non sunt Con╌ Non sunt Condignae ad futuram, ad fu╌tu╌ram Glo╌ri╌am; Glo╌ri╌am; non sunt Condignae ad fu╌tu╌ram Glo╌ri╌am; non sunt Con<g ref="char:EOLhyphen"/>dignae ad fu╌tu╌ram, ad fu╌tu╌ram Glo╌ri╌am. <hi>Signior</hi> Giacorno Carissime non sunt Condignae ad fu╌tu╌ram Glo╌ri╌am. ad fu╌tu╌ram, ad fu╌tu╌ram Glo╌ri╌am. </p>
+               </div>
+               <div type="song">
+                  <pb n="67" facs="tcp:50322:41"/>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">L</seg>U╌ci╌fer, Cae╌le╌stis o╌lim Hierarchiae Princeps prae╌cla<g ref="char:EOLhyphen"/>ris╌si╌mus, su╌per╌be ni╌mi╌um, fa╌tu╌e e╌la╌tus, aequalem De╌o his se jac<g ref="char:EOLhyphen"/>ta╌bat vo╌ci╌bus. O me re<g ref="char:EOLhyphen"/>li╌cem, O me be╌a╌tum, Cae╌le╌sti Glo╌ri╌a de╌eo╌ra╌tum. <stage>Allegro.</stage> In Caelu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> con<g ref="char:EOLhyphen"/>scendam, &amp; su╌per Astra De╌i ex╌al╌ta╌bo
+<pb n="68" facs="tcp:50322:42"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> fo╌li╌um meum; se<g ref="char:EOLhyphen"/>de╌bo in monte Te╌sta╌men╌ti, in la╌te╌ri╌bus a╌qui╌lo╌nis, su╌per al╌ti<g ref="char:EOLhyphen"/>tu╌di╌nem Nu╌bi╌um, si╌mi╌lis e╌ro al╌tis╌si╌mo. Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Au╌di╌ens summus om╌ni╌um Cre╌a╌tor Deus, ac╌ci╌tis An╌ge╌lis su╌is╌a╌it;
+<pb n="69" facs="tcp:50322:42"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> I╌te An╌ge╌li, An╌ge╌li me╌i, i╌te, i╌te, i╌te for╌tis╌si╌mi, i╌te for╌tis╌si╌mi, Coe╌le╌stis Au╌lae mi╌li╌tes; su╌per╌bi<g ref="char:EOLhyphen"/>en╌tem ex╌ter╌mi╌na╌te, ex╌ter╌mi╌na╌te Lu╌ci╌fe╌rum. I╌te pug╌na╌te, fu╌ga╌te re╌bel╌les, pug╌na╌te, fu╌ga╌te re<g ref="char:EOLhyphen"/>bel╌les, fu╌ga╌te re╌bel╌les: Dam╌na╌te su╌per╌bos ad flammas A<g ref="char:EOLhyphen"/>verni;
+<pb n="70" facs="tcp:50322:43"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> ad flam╌mas, ad flam╌mas dam╌na╌te, dam╌na╌te su╌per╌bos, su<g ref="char:EOLhyphen"/>per╌bos ad flam╌mas, ad flam╌mas A╌ver╌ni. Tar╌ta╌re╌i vadant ad li╌mi╌na fun╌di, &amp; sty╌gi╌i cadant in I╌ma pro<g ref="char:EOLhyphen"/>fun╌di; his ad╌di╌te poe╌nas, in in╌fe╌ri por╌tis pa╌ra╌te ca<g ref="char:EOLhyphen"/>te╌nas, &amp; vin╌cu╌la mortis; moe╌ren╌tes, do╌len╌tes, in Ig╌ne lo╌ca╌te, <stage>Adagio.</stage> in Ig╌ne lo╌ca╌te. </p>
+                  <byline>
+                     <hi>Signior</hi> Giacomo Carissime.</byline>
+               </div>
+               <div type="song">
+                  <pb n="71" facs="tcp:50322:43"/>
+                  <head>An Hymn upon the Last Day.</head>
+                  <byline>Words by <hi>Nat. Tate</hi> Esq</byline>
+                  <byline>Set by Mr. <hi>Henry Purcell.</hi>
+                  </byline>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>╌Wake, a╌wake, a╌wake ye ╌Wake, awake, awake ye Dead, the Trum╌pet Dead, the Trum╌pet calls, the Trum╌pet calls; Awake, a╌wake, a╌wake ye calls; A╌wake, a╌wake, a╌wake ye Dead, the Trum╌pet Dead, the Trum╌pet calls, the Trum╌pet calls, calls; Awake, a╌wake, a<g ref="char:EOLhyphen"/>wake, the Trum╌pet calls; Awake, a<g ref="char:EOLhyphen"/>wake,
+<pb n="72" facs="tcp:50322:44"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> awake, awake, awake, awake, to Sleep, to Slee╌p, to Sleep no more, awake, awake, awake, awake, to Slee╌p, to Slee╌p, to Sleep no more, no, no, no no, no, no more, no, no, no more, no, no, no more, no, no, no more, to Sleep no more; more, no, no, no more, no, no, no more, no, no, no more, to Slee╌p no more; Hark! hark! from a╌loft, from a╌loft, a╌loft, the fro╌zen Re╌gion Hark! hark! from aloft, from a╌loft, the fro╌zen Re╌gion falls, with Noise so lou╌d, it deafs the Ocean's falls, with noise so lou╌d, it deafs the Ocean's
+<pb n="73" facs="tcp:50322:44"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> roar: A╌larm'd, A╌larm'd, A╌larm'd, A<g ref="char:EOLhyphen"/>maz'd, roar: A╌maz'd, A╌maz'd, A╌larm'd, A<g ref="char:EOLhyphen"/>maz'd, the clatt'╌ring Orbs, the clatt'╌ring Orbs, the clatt'╌ring the clatt'╌ring Orbs, the clatt'╌ring Orbs come down. The Virtuous Soul a╌lone ap╌pears un<g ref="char:EOLhyphen"/>mo╌v'd, Orbs come down. The Virtuous Soul a<g ref="char:EOLhyphen"/>lone ap╌pears un╌mov'd; the Virtuous Soul a╌lone ap<g ref="char:EOLhyphen"/>pears appears, ap╌pears unmov'd; the Virtuous Soul a╌lone, a╌lone, appears un<g ref="char:EOLhyphen"/>mo╌v'd,
+<pb n="74" facs="tcp:50322:45"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> un╌mov'd, ap╌pears unmov'd, while Earth's Foundations sha╌ke ap╌pears unmov'd, while Earth's Foundations sha╌ke, while Earth's Foundations sha╌ke, while Earth's Foundations shake; as<g ref="char:EOLhyphen"/>cends, while Earth's Foundations sha╌ke, while Earth's Foundations shake; as╌cends, ascends, and mocks the Universal Wreck; as╌cen╌ds, and as╌cends, as╌cends, and mocks the Universal Wreck; as╌cends, and mocks the U╌ni╌ver╌sal Wreck. mocks the U╌ni╌ver╌sal Wreck. </p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:50322:45"/>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:50322:46"/>
+                  <pb facs="tcp:50322:46"/>
+                  <p>Two DIVINE HYMNS: BEING A SUPPLIMENT To the Second BOOK of Harmonia Sacra.</p>
+                  <p>
+                     <hi>LONDON:</hi> Printed by <hi>W. Pearson,</hi> in <hi>Red-Cross-Alley</hi> in <hi>Jewin-street,</hi> for <hi>Henry Playford,</hi> at his Shop in the <hi>Temple-Change Fleet-street.</hi> Price 6 <hi>d.</hi> Or Stitch'd up with the Second Book of <hi>Harmoniae Sacra,</hi> 4 <hi>s.</hi> 1700.</p>
+               </div>
+            </front>
+            <body>
+               <div type="song">
+                  <pb facs="tcp:50322:47"/>
+                  <head>A Divine <hi>HYMN,</hi> Set by Mr. <hi>Jer. Clark.</hi>
+                  </head>
+                  <stage>Very Slow.</stage>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">B</seg>Lest be those sweet Regions where E╌ter╌nal Peace, E╌ter╌nal Peace and Mu╌sick, Mu╌sick, Mu╌sick are; Blest be those, Blest, Blest be those sweet Regions where E╌ter╌nal Peace and Mu╌sick are;
+<pb n="3" facs="tcp:50322:47"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> That so╌lid, so╌lid calm, and that bright day, where brighter An╌gels Sing and Pray; that so╌lid Calm; and that bright Day, where brigh╌ter An╌gels Sing and Pray, where brigh╌ter An╌gels Sing and Pray. <stage>Slow.</stage> We a Ruf╌fled World en╌dure, ne╌ver Ea╌sy, ne╌ver ea╌sy nor se╌cure; we a
+<pb n="4" facs="tcp:50322:48"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Ruf╌fled World en╌dure, never Ea╌sy; never, never, never Ea╌sy; never, never, never Ea╌sy, nor Se╌cure, never Ea╌sy never, never, never Ea╌sy; never, never, never Ea╌sy, nor Se╌cure. Blest be those Souls,; blest, blest, blest be those Souls which dwell a╌bove, in Ex╌ta╌sies of Mu╌tual Love; Blest be those Souls which dwell above, in Ex╌ta╌sies of mu╌tual mutual Love, in
+<pb n="5" facs="tcp:50322:48"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Ex╌ta╌sies of mu╌tual, mu╌tual Love. </p>
+               </div>
+               <div type="song">
+                  <head>A <hi>HYMN</hi> on Divine <hi>MUSICK,</hi> Set by Mr. <hi>William Crofts.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">W</seg>Hat art thou? From what Cau╌ses dost thou spring? Oh! Mu╌sick thou Divine Mi╌sterious thing; Oh! Mu╌sick thou Divine Mi╌sterious thing? Let me, let me but Know, let me, let me but Know, and knowing give me Voice to Sin╌g; let me, let me but Know, and knwing give me Voice to Sin╌g?
+<pb n="6" facs="tcp:50322:49"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> Art thou the warmth in Spring? Art thou the warmth in Spring that <hi>Ze╌phire</hi> breaths? Art thou the warmth in Spring, that <hi>Ze╌phire</hi> breaths, paint╌ing the Meads, and whist╌ling through the Leaves. The happy, hapyy, Season, the happy, happy Sea╌son that all grief╌ ex╌iles, when God is Pleas'd and the Cre╌a╌tion Smi╌les, smi╌les
+<pb n="7" facs="tcp:50322:49"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> the Cre╌a╌tion smiles? Or art thou Love, that mind to mind im╌parts the end╌less con╌cord, the end╌less concord of a╌greeing Hearts? Or art thou Friendship, yet a no╌bler Flame? Or art thou Friendship yet a no╌bler Flame, that can a dearer, a dearer way, can a dearer way make Souls the same? Or art thou ra╌ther which do all transcend, the Centre which at
+<pb n="8" facs="tcp:50322:50"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> last the Blest as╌cend, the Blest as╌cend, the Blest as╌cend, the Scat where <hi>Ha╌le╌lu╌jah</hi>'s, <hi>Ha╌le╌lu╌jah</hi>'s, <hi>Ha╌le╌lu╌jah</hi>'s ne╌ver, ne╌ver, ne╌ver, never, ne╌ver end, <hi>Hal╌le╌lu╌jah</hi>'s ne╌ver, ne╌ver end; Cor╌po╌real Eyes won't let us clearly see, won't let us clear╌ly see, but either thou art Heav'n, or Heav'n is thee. </p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:50322:50"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
